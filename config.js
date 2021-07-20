@@ -4,7 +4,7 @@ const CONFIG = {
     btnIntro: 'hihi',
     title: 'Tớ muốn theo đuổi một cô gái , cậu giúp tớ với nhé? 😙',
     desc: 'Chữ thứ 8 của câu trên ',
-    btnYes: 'Vẫn cứ là tớ luôn <33',
+    btnYes: 'Vẫn cứ là tớ luôn điiii <33',
     btnNo: 'Không, bạn thân à :3',
     question:'Trái tim đỏ mà tớ thả vào bài viết của cậu í, không phải cho hình hay cap mà cậu đăng đâu, là cho cậu đó<3',
     btnReply: 'Gửi cho tớ vài dòng tin nhắn đi nào <3',
