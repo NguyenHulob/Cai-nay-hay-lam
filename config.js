@@ -1,8 +1,8 @@
 const CONFIG = {
-    introTitle: 'Ngân thân iu à!',
+    introTitle: 'Linh thân iu à!',
     introDesc: `Tớ không thích xem “Mười vạn câu hỏi vì sao” xíu nào cả. Trong đó chẳng giải thích được vì sao tớ thích cậu`,
     btnIntro: 'hihi',
-    title: 'Tớ muốn theo đuổi một chàng trai, cậu giúp tớ với nhé? 😙',
+    title: 'Tớ muốn theo đuổi một cô gái , cậu giúp tớ với nhé? 😙',
     desc: 'Chữ thứ 8 của câu trên ',
     btnYes: 'Vẫn cứ là tớ luôn <33',
     btnNo: 'Không, bạn thân à :3',
@@ -12,5 +12,5 @@ const CONFIG = {
     mess: 'Tớ biết mà 🥰. Yêu cậu nhiều nhiều 😘😘',
     messDesc: 'Nghịch cậu đủ rồi, giờ thì hãy nhắn tin với tớ một chút đi.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/nguyen.nguyentrang.169' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.facebook.com/messages/t/100010913476138' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
